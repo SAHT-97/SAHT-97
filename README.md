@@ -14,11 +14,15 @@ Profesional con experiencia en análisis de datos y contabilidad, enfocado en tr
 ## 🛠️ Tecnologías y Herramientas
 
 ### Análisis de Datos
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+
+
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-0F9D58?style=flat-square&logo=google-sheets&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code Logo" width="20"/>
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
+
 
 
 ### Contabilidad y Finanzas
@@ -28,9 +32,8 @@ Profesional con experiencia en análisis de datos y contabilidad, enfocado en tr
 ### Herramientas Adicionales
 
 ![Power Query](https://img.shields.io/badge/-Power%20Query-F2C811?style=flat-square&logo=microsoft&logoColor=black)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
 ![Google Forms](https://img.shields.io/badge/-Google%20Forms-673AB7?style=flat-square&logo=google&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
